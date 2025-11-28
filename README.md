@@ -24,7 +24,7 @@ I'm a cybersecurity graduate student (MS at SNHU) building AI systems with ethic
 
 **[Socratic Ethics Tutor](https://github.com/ebelingbn-debug/Socratic-Ethics-Tutor-AI-Autonomous-Workflow)** - 23-step autonomous AI reasoning agent using Botpress + GPT-4o for ethical analysis
 
-**[BeeMind][(https://github.com/ebelingbn-debug/BeeMind](https://github.com/ebelingbn-debug/BeeMind_AI_Project)** - ML-based honeybee health monitoring system using audio signal analysis
+**[BeeMind][[https://github.com/ebelingbn-debug/BeeMind](https://github.com/ebelingbn-debug/BeeMind_AI_Project)]** - ML-based honeybee health monitoring system using audio signal analysis
 
 ### 📫 Connect With Me
 - LinkedIn: [linkedin.com/in/bridget-ebeling-b73b5b](https://linkedin.com/in/bridget-ebeling-b73b5b)
