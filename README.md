@@ -5,7 +5,7 @@
 I'm a cybersecurity graduate student (MS at SNHU) building AI systems with ethical considerations built in. My background in anthropology and behavioral analysis gives me a unique perspective on human-centered technology design.
 
 ### 🔭 Current Focus
-- Completing MS in Cybersecurity (Expected 2027)
+- Completing MS in Cybersecurity (Expected 2026)
 - Building autonomous AI agents with safety and interpretability
 - Exploring the intersection of human behavior and cybersecurity
 
