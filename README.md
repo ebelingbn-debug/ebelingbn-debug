@@ -2,7 +2,7 @@
 
 ## AI Systems Builder | Cybersecurity MSc Candidate
 
-I build applied AI systems that structure messy real-world data into practical, explainable decision-support tools. My work focuses on deterministic logic design, AI-assisted data normalization, and structured LLM workflow architecture.
+I build applied AI systems that transform messy real-world data into practical, explainable decision-support tools. My work centers on deterministic logic design, AI-assisted data normalization, and structured LLM workflow architecture.
 
 Currently completing an MS in Cybersecurity (Expected 2026) with emphasis on AI safety, interpretability, and forensic reasoning systems.
 
@@ -28,25 +28,26 @@ Background in anthropology and behavioral analysis informs my approach to ethica
 - Google Cybersecurity Professional Certificate  
 - Google IT Support Professional Certificate  
 - IBM Cybersecurity Analyst Professional Certificate  
-- Oracle OCI Generative AI Professional *(completing soon)*  
+- Oracle OCI Generative AI Professional *(in progress)*  
 
 ---
 
 ### 🚀 Featured Projects
-**[Shelter Placement Decision-Support System](https://github.com/ebelingbn-debug/shelter-placement-decision-support/blob/main/README.md)**  
-Locally deployed, deterministic intake matching system in continuous operational use within a county shelter since Dec 2025.
+
+**[Shelter Placement Decision-Support System](https://github.com/ebelingbn-debug/shelter-placement-decision-support)**  
+Locally deployed, deterministic intake matching system in continuous operational use within a county shelter since Dec 2025, supporting structured placement decisions under real-world constraints.
 
 **[Socratic Ethics Tutor](https://github.com/ebelingbn-debug/Socratic-Ethics-Tutor-AI-Autonomous-Workflow)**  
 23-step autonomous AI reasoning agent using Botpress + GPT-4o for ethical analysis.
 
-**[BeeMind](https://github.com/ebelingbn-debug/BeeMind_AI_Project)**  
+**[BeeMind](https://github.com/ebelingbn-debug/BeeMind%20AI%20Project)**  
 ML-based honeybee health monitoring system using audio signal analysis.
 
 ---
 
 ### 📬 Connect With Me
-- LinkedIn: [linkedin.com/in/bridget-ebeling-b73b5b](https://linkedin.com/in/bridget-ebeling-b73b5b)
-- Email: ebelingbn@gmail.com
+- LinkedIn: https://linkedin.com/in/bridget-ebeling-b73b5b  
+- Email: ebelingbn@gmail.com  
 
 ---
 
