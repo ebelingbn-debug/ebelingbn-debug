@@ -39,7 +39,7 @@ Locally deployed, deterministic intake matching system in continuous operational
 **[Socratic Ethics Tutor](https://github.com/ebelingbn-debug/Socratic-Ethics-Tutor-AI-Autonomous-Workflow)**  
 23-step autonomous AI reasoning agent using Botpress + GPT-4o for ethical analysis.
 
-**[BeeMind](https://github.com/ebelingbn-debug/BeeMind%20AI%20Project)**  
+**[BeeMind](https://github.com/ebelingbn-debug/BeeMind_AI_Project)**  
 ML-based honeybee health monitoring system using audio signal analysis.
 
 ---
