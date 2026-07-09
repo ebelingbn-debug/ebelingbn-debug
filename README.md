@@ -1,17 +1,17 @@
 # Hi, I'm Bridget Ebeling 👋
 
-## AI Systems Builder | Cybersecurity MSc Candidate
+## Cybersecurity MSc Candidate | Digital Forensics & AI Systems
 
 I build applied AI systems that transform messy real-world data into practical, explainable decision-support tools. My work centers on deterministic logic design, AI-assisted data normalization, and structured LLM workflow architecture.
 
-Currently completing an MS in Cybersecurity (Expected 2026) with emphasis on AI safety, interpretability, and forensic reasoning systems.
+Currently completing an MS in Cybersecurity (Expected October 2026) with emphasis on AI safety, interpretability, and forensic reasoning systems.
 
 Background in anthropology and behavioral analysis informs my approach to ethical, human-centered technology design.
 
 ---
 
 ### 🏋️ Current Focus
-- Completing MS in Cybersecurity (Expected 2026)
+- Completing MS in Cybersecurity (Expected October 2026)
 - Designing structured LLM workflows with safety, interpretability, and deterministic control
 - Exploring the intersection of human behavior, cybersecurity, and forensic analysis
 
@@ -19,7 +19,7 @@ Background in anthropology and behavioral analysis informs my approach to ethica
 
 ### 🛠️ Technical Skills
 - **AI/ML:** Python, OpenAI API (GPT-4o), LLM Workflow Design, RAG Architecture, Prompt Engineering, Botpress
-- **Cybersecurity:** Risk Assessment, Network Security, Incident Response, SIEM Concepts
+- **Cybersecurity:** Risk Assessment, Network Security, Incident Response, Wireshark, Splunk
 - **Tools:** Git, VS Code, Linux, Cloud Platforms
 
 ---
@@ -28,7 +28,7 @@ Background in anthropology and behavioral analysis informs my approach to ethica
 - Google Cybersecurity Professional Certificate  
 - Google IT Support Professional Certificate  
 - IBM Cybersecurity Analyst Professional Certificate  
-- Oracle OCI Generative AI Professional *(in progress)*  
+- CompTIA Security+ (in progress) 
 
 ---
 
