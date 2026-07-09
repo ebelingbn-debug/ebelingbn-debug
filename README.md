@@ -34,7 +34,7 @@ Background in anthropology and behavioral analysis informs my approach to ethica
 
 ### 🚀 Featured Projects
 
-**[Shelter Placement Decision-Support System](https://github.com/bridget-ebeling/shelter-placement-decision-support)*  
+**[Shelter Placement Decision-Support System](https://github.com/bridget-ebeling/shelter-placement-decision-support)**  
 Locally deployed, deterministic intake matching system in continuous operational use within a county shelter since Dec 2025, supporting structured placement decisions under real-world constraints.
 
 **[Socratic Ethics Tutor](https://github.com/bridget-ebeling/Socratic-Ethics-Tutor-AI-Autonomous-Workflow)**  
