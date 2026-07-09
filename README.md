@@ -2,9 +2,9 @@
 
 ## Cybersecurity MSc Candidate | Digital Forensics & AI Systems
 
-I build applied AI systems that transform messy real-world data into practical, explainable decision-support tools. My work centers on deterministic logic design, AI-assisted data normalization, and structured LLM workflow architecture.
-
 Currently completing an MS in Cybersecurity (Expected October 2026) with emphasis on AI safety, interpretability, and forensic reasoning systems.
+
+I build applied AI systems that transform messy real-world data into practical, explainable decision-support tools. My work centers on deterministic logic design, AI-assisted data normalization, and structured LLM workflow architecture.
 
 Background in anthropology and behavioral analysis informs my approach to ethical, human-centered technology design.
 
